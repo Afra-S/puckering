@@ -3,6 +3,7 @@
 ###calculating the the frequency of presence of a certain pucker family for each nucleotide, as well as the average and fluctuation of pucker phase and pucker amplitude, using molecular dynamics simulations
 
 $Amp=\sqrt(a^2+b^2)$
+
 $Pha=\cos^{-1} \left(\frac{a}{\text{Amp}}\right)$
 
 
